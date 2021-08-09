@@ -15,11 +15,21 @@ function vis_speed()
                 break;
         case 2: speed=10;
                 break;
-        case 3: speed=100;
+        case 3: speed=50;
                 break;
-        case 4: speed=1000;
+        case 4: speed=100;
                 break;
-        case 5: speed=10000;
+        case 5: speed=500;
+                break;
+        case 6: speed=1000;
+                break;
+        case 7: speed=5000;
+                break;
+        case 8: speed=7000;
+                break;
+        case 9: speed=8000;
+                break;
+        case 10: speed=10000;
                 break;
     }
     
